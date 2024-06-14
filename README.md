@@ -34,6 +34,7 @@ Knowledge of SDLC, STLC, Bug life cycle, Waterfall, Agile concepts knowledge (Sc
 
 
 
+
 </p>
 
 
