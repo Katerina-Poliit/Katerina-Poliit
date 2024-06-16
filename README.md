@@ -30,5 +30,9 @@ Knowledge of SDLC, STLC, Bug life cycle, Waterfall, Agile concepts knowledge (Sc
  </p>
 
 <h3 align="left" class="heading-element" dir="auto">❤️ Let's get connected:</h3>
+<a href="https://www.linkedin.com/in/katerina-poliit-b45182268/" target="_blank">
+    <img src="https://camo.githubusercontent.com/c457924542427ab09c6897a501aa47b873e080ee92c167a256923fc2bd0e4c41/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" width="40" height="40" alt="linkedin" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" style="max-width: 100%;">
+</a>
+
 
 
