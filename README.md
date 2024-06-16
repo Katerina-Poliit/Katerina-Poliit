@@ -11,7 +11,7 @@ Quality Assurance Engineer specializing in both manual and automated testing. I'
 
 
 &#x1F6E0;&#xFE0F;
-Skills and Tools:
+<h3>Skills and Tools:</h3>
 
 Manual QA, Black/Grey box testing, Web/Mobile testing
 Regression, Sanity, Smoke testing
