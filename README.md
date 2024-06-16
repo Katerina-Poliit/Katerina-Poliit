@@ -1,8 +1,6 @@
 <h1 align="center">Hi there!👋, I'm Katerina Poliit</h1>
 
-
-<img align="right" alt="GIF" src="/lauragift21/lauragift21/raw/master/code.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <!-- <h3 align="center">  :man_technologist: About Me:
