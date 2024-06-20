@@ -43,7 +43,8 @@ Knowledge of SDLC, STLC, Bug life cycle, Waterfall, Agile concepts knowledge (Sc
 
 </a>
 
-<p>![](http://github-profile-summary-cards.vercel.app/api/cards/Katerina Poliit GitHub Stats?username=Katerina-Poliit&theme=vue)
+<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Katerina-Poliit&theme=vue" alt="Katerina Poliit GitHub Stats">
+
 </p>
 
 
